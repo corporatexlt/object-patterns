@@ -1,3 +1,2 @@
-# Object Patterns
-# object-patterns
+# Object Patterns (object-patterns)
 Self Study
